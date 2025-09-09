@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103742152655",
+    "project_id": "shipperloadnow",
+    "storage_bucket": "shipperloadnow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103742152655:android:1688e32a7ad6e22ba93cba",
+        "android_client_info": {
+          "package_name": "com.firebasenotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPhByohWtcZS-47DPOYX6eBQIo79wWhAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103742152655:android:8840b6b6c2d803e6a93cba",
+        "android_client_info": {
+          "package_name": "com.shipperloadnow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPhByohWtcZS-47DPOYX6eBQIo79wWhAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

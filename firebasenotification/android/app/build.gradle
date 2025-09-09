@@ -117,3 +117,6 @@ dependencies {
         implementation jscFlavor
     }
 }
+
+// Firebase Google Services plugin - must be applied for default app initialization
+apply plugin: "com.google.gms.google-services"
